@@ -1,6 +1,8 @@
+![Python & Django Backend Developer](https://media.licdn.com/dms/image/v2/D5616AQGfvTX19iF5KA/profile-displaybackgroundimage-shrink_350_1400/B56Z3p_lnMGsAY-/0/1777747255691?e=1788393600&v=beta&t=FXfvvfcwNcHXSaVYonDuNoabS8K9JNT9uSULlgAgJYQ)
+
 ### Hi there 👋, i'm Abdullah
 #### Python & Django Backend Developer
-![Python & Django Backend Developer](https://media.licdn.com/dms/image/v2/D5616AQGfvTX19iF5KA/profile-displaybackgroundimage-shrink_350_1400/B56Z3p_lnMGsAY-/0/1777747255691?e=1788393600&v=beta&t=FXfvvfcwNcHXSaVYonDuNoabS8K9JNT9uSULlgAgJYQ)
+
 
 Passionate Backend Developer from Dhaka, Bangladesh. I specialize in building web applications using Python, Django, PostgreSQL, and modern frontend technologies.
 
